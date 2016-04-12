@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="Testing/selenium-server-standalone-2.42.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mysql-connector-java-5.1.32-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-2.42.2.jar"/>
+	<classpathentry kind="lib" path="lib/activation.jar"/>
+	<classpathentry kind="lib" path="lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="lib/bsh.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/cssparser-0.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/guava.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/htmlunit-core-js-2.9.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-cache-4.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.3.jar"/>
+	<classpathentry kind="lib" path="lib/ini4j-0.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/jcommander.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-websocket-8.0.0.v20110901.jar"/>
+	<classpathentry kind="lib" path="lib/jna-3.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/json-20080701-sources.jar"/>
+	<classpathentry kind="lib" path="lib/junit-dep-4.10.jar"/>
+	<classpathentry kind="lib" path="lib/nekohtml.jar"/>
+	<classpathentry kind="lib" path="lib/net.sourceforge.htmlunit-all-2.8.w1.jar"/>
+	<classpathentry kind="lib" path="lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="lib/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/org-apache-commons-codec.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.collections.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/phantomjsdriver-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-2.42.2.jar"/>
+	<classpathentry kind="lib" path="lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="lib/xalan-2.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-nodep-2.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/htmlunit-2.14.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
